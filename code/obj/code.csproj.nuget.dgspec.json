@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iolanda Carvalho\\Meu Drive\\Estudos\\repositorios_github\\caixa_eletronico\\code\\code.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\Iolanda_Carvalho\\caixa_eletronico\\code\\code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iolanda Carvalho\\Meu Drive\\Estudos\\repositorios_github\\caixa_eletronico\\code\\code.csproj": {
+    "C:\\Users\\Aluno\\Documents\\Iolanda_Carvalho\\caixa_eletronico\\code\\code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iolanda Carvalho\\Meu Drive\\Estudos\\repositorios_github\\caixa_eletronico\\code\\code.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Iolanda_Carvalho\\caixa_eletronico\\code\\code.csproj",
         "projectName": "code",
-        "projectPath": "C:\\Users\\Iolanda Carvalho\\Meu Drive\\Estudos\\repositorios_github\\caixa_eletronico\\code\\code.csproj",
-        "packagesPath": "C:\\Users\\Iolanda Carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iolanda Carvalho\\Meu Drive\\Estudos\\repositorios_github\\caixa_eletronico\\code\\obj\\",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\Iolanda_Carvalho\\caixa_eletronico\\code\\code.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\Iolanda_Carvalho\\caixa_eletronico\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Iolanda Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
